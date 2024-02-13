@@ -115,3 +115,7 @@ body {
 .card-category, .section-tagline {
     color: var(--color-primary);
 }
+
+.footer {
+        padding: var(--footer-padding);
+}
